@@ -1,0 +1,7 @@
+difference between fail safe and fail fast -
+Fail safe iterator  does not throw concurrentmodificationexception while fail fast iterator throws.
+Fail safe iterators e.g iterator provided by CopyOnWriteArrayList work on snapshot while fail safe iterator works on actual collection.
+Elements in the fail safe iterators can not be modified while iterating while elements in the fail fast can be modified while iterating.
+Examples of fail fast iterators are Vector, ArrayList, HashMap while that of the Fail Safe iteraor are ConcurrentHashMap, CopyOnWriteArrayList and CopyOnWriteArraySet.
+
+http://www.java67.com/2015/06/what-is-fail-safe-and-fail-fast-iterator-in-java.html

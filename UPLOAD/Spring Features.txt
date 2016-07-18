@@ -1,0 +1,10 @@
+Spring Features-
+-lightweight
+less memory space
+-Easy to use
+-Loosely coupled
+-Framework of frameworks
+-Readyness Template
+JDBC template
+-Declarative support
+-Easy to test

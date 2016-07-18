@@ -1,0 +1,3 @@
+difference between bean id and name
+1) you can specify number of names seperated by comma while id can not
+2) Special characters are not allowed in id but name can have
